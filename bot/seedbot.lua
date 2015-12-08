@@ -219,28 +219,28 @@ function create_config( )
     "download_media",
     "invite"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {128556958,mehran_hpr(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/mehranhpr/seed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@mehran_hpr [Founder]
+@mehran_hpr [Developer]
+@mehran_hpr [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@mehran_hpr
+@mehran_hpr
+@mehran_hpr
+@mehran_hpr
 
 Our channels
-@teleseedch [English]
+@HPR_BOT_CHannel [English]
 ]],
     help_text = [[
 Commands list :
